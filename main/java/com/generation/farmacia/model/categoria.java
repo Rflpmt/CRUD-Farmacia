@@ -13,4 +13,19 @@ public class categoria {
     
     private String nome;
 
+	public Object getNome1() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public void setNome(Object nome2) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public Object getNome() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }
