@@ -1,0 +1,40 @@
+.categoria-list {
+    padding: 20px;
+  }
+  
+  .categoria-list ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .categoria-list li {
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+  }
+  
+  .categoria-form {
+    padding: 20px;
+  }
+  
+  .categoria-form input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .categoria-form button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .categoria-form button:hover {
+    background-color: #0056b3;
+  }
